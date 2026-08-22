@@ -1,0 +1,3 @@
+sdss-marvin
+boto3
+pyspark
