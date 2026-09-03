@@ -1,0 +1,5 @@
+astropy
+numpy
+sdss-marvin
+boto3
+pyspark
